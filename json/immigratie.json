@@ -1,0 +1,450 @@
+[
+    {
+        "Jaar": 2010,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 3322,
+                "Vrouwen": 2745
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5724,
+                "Vrouwen": 4742
+            },
+            {
+                "Land": "France",
+                "Mannen": 9168,
+                "Vrouwen": 8196
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 4063,
+                "Vrouwen": 4416
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 3340,
+                "Vrouwen": 2698
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 2378,
+                "Vrouwen": 1906
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 4025,
+                "Vrouwen": 5744
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 360,
+                "Vrouwen": 212
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1781,
+                "Vrouwen": 1529
+            },
+            {
+                "Land": "Other",
+                "total":68932,
+                "Mannen": 36748,
+                "Vrouwen": 32184
+            }
+        ]
+    },
+    {
+        "Jaar": 2011,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 4008,
+                "Vrouwen": 3526
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5380,
+                "Vrouwen": 4847
+            },
+            {
+                "Land": "France",
+                "Mannen": 8405,
+                "Vrouwen": 8174
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 3749,
+                "Vrouwen": 3675
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 5389,
+                "Vrouwen": 4211
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 2916,
+                "Vrouwen": 2412
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 4044,
+                "Vrouwen": 3980
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 457,
+                "Vrouwen": 231
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1760,
+                "Vrouwen": 1465
+            },
+            {
+                "Land": "Other",
+                "total":78748,
+                "Mannen": 42357,
+                "Vrouwen": 36391
+            }
+        ]
+    },
+    {
+        "Jaar": 2012,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 3901,
+                "Vrouwen": 3814
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5417,
+                "Vrouwen": 4838
+            },
+            {
+                "Land": "France",
+                "Mannen": 8296,
+                "Vrouwen": 7823
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 2462,
+                "Vrouwen": 2265
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 5517,
+                "Vrouwen": 4144
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3230,
+                "Vrouwen": 2518
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 4000,
+                "Vrouwen": 3458
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 388,
+                "Vrouwen": 237
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1277,
+                "Vrouwen": 978
+            },
+            {
+                "Land": "Other",
+                "total":64914,
+                "Mannen": 34242,
+                "Vrouwen": 30672
+            }
+        ]
+    },
+    {
+        "Jaar": 2013,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 3936,
+                "Vrouwen": 3597
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5466,
+                "Vrouwen": 4771
+            },
+            {
+                "Land": "France",
+                "Mannen": 8527,
+                "Vrouwen": 7857
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 1792,
+                "Vrouwen": 1983
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 4711,
+                "Vrouwen": 3575
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3113,
+                "Vrouwen": 2748
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 3426,
+                "Vrouwen": 2897
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 567,
+                "Vrouwen": 380
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 924,
+                "Vrouwen": 886
+            },
+            {
+                "Land": "Other",
+                "total":58922,
+                "Mannen": 30413,
+                "Vrouwen": 28509
+            }
+        ]
+    },
+    {
+        "Jaar": 2014,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 3736,
+                "Vrouwen": 3353
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5600,
+                "Vrouwen": 4836
+            },
+            {
+                "Land": "France",
+                "Mannen": 8702,
+                "Vrouwen": 7788
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 1830,
+                "Vrouwen": 2090
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 6084,
+                "Vrouwen": 4688
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3280,
+                "Vrouwen": 2776
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 3122,
+                "Vrouwen": 2521
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 1395,
+                "Vrouwen": 983
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1061,
+                "Vrouwen": 870
+            },
+            {
+                "Land": "Other",
+                "total":58443,
+                "Mannen": 30667,
+                "Vrouwen": 27776
+            }
+        ]
+    },
+    
+    {
+        "Jaar": 2015,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 3123,
+                "Vrouwen": 2836
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 6339,
+                "Vrouwen": 5219
+            },
+            {
+                "Land": "France",
+                "Mannen": 8598,
+                "Vrouwen": 7450
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 2117,
+                "Vrouwen": 2197
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 5957,
+                "Vrouwen": 4223
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3420,
+                "Vrouwen": 2789
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 2710,
+                "Vrouwen": 2502
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 5437,
+                "Vrouwen": 3006
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1723,
+                "Vrouwen": 1239
+            },
+            {
+                "Land": "Other",
+                "total":75741,
+                "Mannen": 43985,
+                "Vrouwen": 31756
+            }
+        ]
+    },
+    {
+        "Jaar": 2016,
+        "Immigratie": [
+            {
+                "Land": "Spain",
+                "Mannen": 2825,
+                "Vrouwen": 2454
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5904,
+                "Vrouwen": 4969
+            },
+            {
+                "Land": "France",
+                "Mannen": 7972,
+                "Vrouwen": 7243
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 2173,
+                "Vrouwen": 2127
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 6457,
+                "Vrouwen": 3895
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3284,
+                "Vrouwen": 2656
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 2435,
+                "Vrouwen": 1975
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 1588,
+                "Vrouwen": 1888
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1524,
+                "Vrouwen": 1247
+            },
+            {
+                "Land": "Other",
+                "total":61086,
+                "Mannen": 32484,
+                "Vrouwen": 28602
+            }
+        ]
+    },
+    {
+        "Jaar": 2017,
+        "Immigratie": [
+            {
+                "Land": "France",
+                "Mannen": 8142,
+                "Vrouwen": 7176
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 3264,
+                "Vrouwen": 2689
+            },
+            {
+                "Land": "Morroco",
+                "Mannen": 2005,
+                "Vrouwen": 2125
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 5524,
+                "Vrouwen": 4676
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 2255,
+                "Vrouwen": 1947
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 7117,
+                "Vrouwen": 4167
+            },
+            {
+                "Land": "Spain",
+                "Mannen": 3031,
+                "Vrouwen": 2708
+            },
+            {
+                "Land": "Syria",
+                "Mannen": 1820,
+                "Vrouwen": 1954
+            },
+            {
+                "Land": "Turkey",
+                "Mannen": 1930,
+                "Vrouwen": 1603
+            },
+            {
+                "Land": "Other",
+                "Mannen": 33002,
+                "Vrouwen": 30468
+            }
+        ]
+    }
+]

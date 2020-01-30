@@ -1,0 +1,484 @@
+[
+    {
+        "Jaar": 2010,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 1304,
+                "Vrouwen": 1165
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4432,
+                "Vrouwen": 3514
+            },
+            {
+                "Land": "France",
+                "Mannen": 5576,
+                "Vrouwen": 4750
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2300,
+                "Vrouwen": 1967
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 596,
+                "Vrouwen": 393
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1478,
+                "Vrouwen": 1138
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1607,
+                "Vrouwen": 827
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 1946,
+                "Vrouwen": 1672
+            },
+            {
+                "Land": "United States",
+                "Mannen": 2166,
+                "Vrouwen": 1893
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 816,
+                "Vrouwen": 601
+            },
+            {
+                "Land": "Other",
+                "total":25872,
+                "Mannen": 14803,
+                "Vrouwen": 11069
+            }
+        ]
+    },
+    {
+        "Jaar": 2011,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 2229,
+                "Vrouwen": 1709
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4407,
+                "Vrouwen": 3499
+            },
+            {
+                "Land": "France",
+                "Mannen": 9582,
+                "Vrouwen": 7420
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2433,
+                "Vrouwen": 2047
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 928,
+                "Vrouwen": 505
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1179,
+                "Vrouwen": 916
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1406,
+                "Vrouwen": 814
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2377,
+                "Vrouwen": 1646
+            },
+            {
+                "Land": "United States",
+                "Mannen": 2077,
+                "Vrouwen": 1775
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 844,
+                "Vrouwen": 541
+            },
+            {
+                "Land": "Other",
+                "total":35814,
+                "Mannen": 21473,
+                "Vrouwen": 14341
+            }
+        ]
+    },
+    {
+        "Jaar": 2012,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 2308,
+                "Vrouwen": 1874
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4858,
+                "Vrouwen": 3732
+            },
+            {
+                "Land": "France",
+                "Mannen": 9691,
+                "Vrouwen": 7624
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2569,
+                "Vrouwen": 2103
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 1194,
+                "Vrouwen": 700
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1336,
+                "Vrouwen": 999
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1532,
+                "Vrouwen": 880
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2494,
+                "Vrouwen": 1734
+            },
+            {
+                "Land": "United States",
+                "Mannen": 2063,
+                "Vrouwen": 1830
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 810,
+                "Vrouwen": 538
+            },
+            {
+                "Land": "Other",
+                "total":42731,
+                "Mannen": 25443,
+                "Vrouwen": 17288
+            }
+        ]
+    },
+    {
+        "Jaar": 2013,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 2518,
+                "Vrouwen": 1930
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4773,
+                "Vrouwen": 3489
+            },
+            {
+                "Land": "France",
+                "Mannen": 9872,
+                "Vrouwen": 7931
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2598,
+                "Vrouwen": 2214
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 1740,
+                "Vrouwen": 977
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1415,
+                "Vrouwen": 1028
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1956,
+                "Vrouwen": 1048
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2804,
+                "Vrouwen": 1932
+            },
+            {
+                "Land": "United States",
+                "Mannen": 1993,
+                "Vrouwen": 1879
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 956,
+                "Vrouwen": 594
+            },
+            {
+                "Land": "Other",
+                "total":49010,
+                "Mannen": 29475,
+                "Vrouwen": 19535
+            }
+        ]
+    },
+    {
+        "Jaar": 2014,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 2443,
+                "Vrouwen": 1975
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4488,
+                "Vrouwen": 3726
+            },
+            {
+                "Land": "France",
+                "Mannen": 8544,
+                "Vrouwen": 7641
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2643,
+                "Vrouwen": 2220
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 1891,
+                "Vrouwen": 1006
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1343,
+                "Vrouwen": 1072
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1784,
+                "Vrouwen": 1017
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2880,
+                "Vrouwen": 2049
+            },
+            {
+                "Land": "United States",
+                "Mannen": 1945,
+                "Vrouwen": 1738
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 921,
+                "Vrouwen": 664
+            },
+            {
+                "Land": "Other",
+                "total":42583,
+                "Mannen": 24877,
+                "Vrouwen": 17706
+            }
+        ]
+    },
+    {
+        "Jaar": 2015,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 2777,
+                "Vrouwen": 2260
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4342,
+                "Vrouwen": 3568
+            },
+            {
+                "Land": "France",
+                "Mannen": 8677,
+                "Vrouwen": 7493
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2333,
+                "Vrouwen": 1960
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 1955,
+                "Vrouwen": 996
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1301,
+                "Vrouwen": 1009
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 1836,
+                "Vrouwen": 1048
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2886,
+                "Vrouwen": 2164
+            },
+            {
+                "Land": "United States",
+                "Mannen": 2277,
+                "Vrouwen": 1914
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 1054,
+                "Vrouwen": 711
+            },
+            {
+                "Land": "Other",
+                "total":37233,
+                "Mannen": 21683,
+                "Vrouwen": 15550
+            }
+        ]
+    },
+    {
+        "Jaar": 2016,
+        "Emigration": [
+            {
+                "Land": "Spain",
+                "Mannen": 3180,
+                "Vrouwen": 2564
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4807,
+                "Vrouwen": 3884
+            },
+            {
+                "Land": "France",
+                "Mannen": 8735,
+                "Vrouwen": 7476
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2300,
+                "Vrouwen": 1937
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 2449,
+                "Vrouwen": 1199
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1454,
+                "Vrouwen": 1120
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 2172,
+                "Vrouwen": 1347
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 3044,
+                "Vrouwen": 2081
+            },
+            {
+                "Land": "United States",
+                "Mannen": 2108,
+                "Vrouwen": 1878
+            },
+            {
+                "Land": "Portugal",
+                "Mannen": 1092,
+                "Vrouwen": 846
+            },
+            {
+                "Land": "Other",
+                "total":36798,
+                "Mannen": 21257,
+                "Vrouwen": 15541
+            }
+        ]
+    },
+    {
+        "Jaar": 2017,
+        "Emigration": [
+            {
+                "Land": "France",
+                "Mannen": 9091,
+                "Vrouwen": 8109
+            },
+            {
+                "Land": "Italy",
+                "Mannen": 1574,
+                "Vrouwen": 1166
+            },
+            {
+                "Land": "United Kingdom",
+                "Mannen": 2530,
+                "Vrouwen": 1939
+            },
+            {
+                "Land": "Netherlands",
+                "Mannen": 4889,
+                "Vrouwen": 3983
+            },
+            {
+                "Land": "Poland",
+                "Mannen": 2268,
+                "Vrouwen": 1421
+            },
+            {
+                "Land": "Romania",
+                "Mannen": 2555,
+                "Vrouwen": 1196
+            },
+            {
+                "Land": "Spain",
+                "Mannen": 3475,
+                "Vrouwen": 2785
+            },
+            {
+                "Land": "Germany",
+                "Mannen": 2261,
+                "Vrouwen": 2028
+            },
+            {
+                "Land": "United States",
+                "Mannen": 1962,
+                "Vrouwen": 1771
+            },
+            {
+                "Land": "Other",
+                "Mannen": 18385,
+                "Vrouwen": 13968
+            }
+        ]
+    }
+]
